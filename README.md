@@ -1,5 +1,5 @@
 # HPI and Time Traveled to Work: 2010 to 2019 Trends
-Following the 2008 housing bubble crash, housing prices have been on the rise. Because workers are able to afford ever increasing house prices, we can infer that wages are also increasing. If wages are on the rise , is the average worker's travel time to work also affected due to a wider range of prospective houses? 
+Following the 2008 housing bubble crash, housing prices have been on the rise. Because workers are able to afford ever increasing house prices, we can infer that wages are also increasing. If wages are on the rise, is the average worker's travel time to work also affected due to a wider range of prospective houses? 
 
 HPI, House Price Index, encompasses the NSA and SA indices. The NSA index has a base level 100, and represents the value of a single family detached residence. The SA index works similarly, but is seasonally adjusted. Both indices are calculated quarterly throughout the year. 
 
