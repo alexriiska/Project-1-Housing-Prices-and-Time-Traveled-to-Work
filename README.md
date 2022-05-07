@@ -99,9 +99,9 @@ Implication: People are traveling longer amounts of time to work as a result of 
 
 The relationship between HPI % change and work location relative to residence location change % is not statistically significant for the US average.
 
-Implication: on average, HPI has not affected where people work relative to their residence location
+Implication: on average, HPI has not affected where people work relative to their residence location.
 
-Further research into individual states and other variables to make a strong conclusion is necessary
+Further research into individual states and other variables to make a strong conclusion is necessary.
 
 
 
