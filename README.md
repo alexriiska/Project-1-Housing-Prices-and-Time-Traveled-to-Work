@@ -63,6 +63,11 @@ The bar plot above illustrates the aggregate travel time for each year. Over the
 
 This line graph demonstrates how the percentage of each of the time ranges (< 20 min, 20-39 min, 40-59 min, 60-89 min, and > 90 min) changed from 2010 to 2019. The percentage of workers traveling less than 20 min underwent the most change, decreasing from just under 50% to around 44%. In turn, a slight increase was seen in the other four time ranges. 
 
+#### Location of Travel
+![County and State](https://github.com/alexriiska/project-1/blob/main/Images/Change%20Time%20Work%20Location.png)
+
+This graph depicts how the percentage of each category of work location relative to residence (in county of residence, outside county of residence, and outside state of residence) changed from 2010 to 2019. Although there are small changes in each category at various points, there was overall no meaningful difference. Throughout this time period, around 58% of workers worked in their county of residence, 33% worked outside their county of residence, and 9% worked outside their state of residence.  
+
 ### Does Correlation Change Depending on Type of HPI Value?
 Because HPI is calculated on two scales, the scale used could possibly affect the correlation with travel time to work. To visualize the effects of changing the HPI scale, the average NSA and SA indices were plotted in a line graph with the aggregate travel time. 
 
@@ -87,7 +92,4 @@ Nevada was labeled to highlight it as the only state with a change in HPI over 1
 
 
 
-#### Location of Travel
-![County and State](https://github.com/alexriiska/project-1/blob/main/Images/Change%20Time%20Work%20Location.png)
 
-This graph depicts how the percentage of each category of work location relative to residence (in county of residence, outside county of residence, and outside state of residence) changed from 2010 to 2019. Although there are small changes in each category at various points, there was overall no meaningful difference. Throughout this time period, around 58% of workers worked in their county of residence, 33% worked outside their county of residence, and 9% worked outside their state of residence.  
