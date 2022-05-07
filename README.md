@@ -90,6 +90,13 @@ Above is a scatter plot comparing each state's NSA index and aggregate travel ti
 
 Nevada was labeled to highlight it as the only state with a change in HPI over 100%. 
 
+### Implications
+•	There is a statistically significant relationship between HPI % change and % change in total travel time from 2010 to 2019 
+•	The % of people traveling shorter distances to work (<20 min) steadily decreased each year from 2010 to 2019; the % of people traveling longer distances to work (>20 min) steadily increased from 2010 to 2019.
+•	Implication: People are traveling longer amounts of time to work as a result of increasing house prices
+•	The relationship between HPI % change and work location relative to residence location change % is not statistically significant for the US average.
+•	Implication: on average, HPI has not affected where people work relative to their residence location
+      o Further research into individual states and other variables to make a strong conclusion is necessary
 
 
 
