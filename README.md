@@ -52,23 +52,6 @@ Some observations are summarized below.
 | Outside State of Residence (Greatest Decrease) | -28.88% | UT |
 
 ## Analysis and Conclusions
-### Are HPI and Travel Time to Work Related?
-![HPI vs. Travel Time to Work](https://github.com/alexriiska/project-1/blob/main/Images/HPI%20Travel%20Time%20to%20Work.png)
-
-Above is a scatter plot comparing each state's NSA index and aggregate travel time throughout the 10 year period, color coded by year. Although there appears to be a positive correlation for some states (areas that are grouped together), there is little correlation overall. However, when approaching the plot using percent change for the NSA index and aggregate travel time, the positive correlation becomes more noticeable. The scatter plot below shows the relationship between the two percent changes, this time color coded by state. Running a Pearson's R test on the percent changes produced a score of 0.84, confirming a strong, positive relationship. 
-
-![% Change HPI vs % Change Aggregate](https://github.com/alexriiska/project-1/blob/main/Images/Change%20HPI%20Total%20Travel%20Time.png)
-
-Nevada was labeled to highlight it as the only state with a change in HPI over 100%. 
-
-### Does Correlation Change Depending on Type of HPI Value?
-Because HPI is calculated on two scales, the scale used could possibly affect the correlation with travel time to work. To visualize the effects of changing the HPI scale, the average NSA and SA indices were plotted in a line graph with the aggregate travel time. 
-
-| NSA and Aggregate Travel Time | SA and Aggregate Travel Time|
-| --- | --- |
-| ![NSA](https://github.com/alexriiska/project-1/blob/main/Images/Mean%20NSA%20Aggregate%20Travel%20Time.png) | ![SA](https://github.com/alexriiska/project-1/blob/main/Images/Mean%20SA%20Aggregate%20Travel%20Time.png) |
-
-Looking at the two graphs next to each other, no noticeable differences can be found, thus we can conclude that the index used in calculations should not affect the correlation between HPI and aggregate travel time. 
 
 ### How is Travel Time to Work Changing? 
 ![Aggregate Travel Time](https://github.com/alexriiska/project-1/blob/main/Images/Aggregate%20Travel%20Time%202010%20to%202019.png)
@@ -79,6 +62,30 @@ The bar plot above illustrates the aggregate travel time for each year. Over the
 ![Overall Change](https://github.com/alexriiska/project-1/blob/main/Images/Change%20Commute%20Times.png)
 
 This line graph demonstrates how the percentage of each of the time ranges (< 20 min, 20-39 min, 40-59 min, 60-89 min, and > 90 min) changed from 2010 to 2019. The percentage of workers traveling less than 20 min underwent the most change, decreasing from just under 50% to around 44%. In turn, a slight increase was seen in the other four time ranges. 
+
+### Does Correlation Change Depending on Type of HPI Value?
+Because HPI is calculated on two scales, the scale used could possibly affect the correlation with travel time to work. To visualize the effects of changing the HPI scale, the average NSA and SA indices were plotted in a line graph with the aggregate travel time. 
+
+| NSA and Aggregate Travel Time | SA and Aggregate Travel Time|
+| --- | --- |
+| ![NSA](https://github.com/alexriiska/project-1/blob/main/Images/Mean%20NSA%20Aggregate%20Travel%20Time.png) | ![SA](https://github.com/alexriiska/project-1/blob/main/Images/Mean%20SA%20Aggregate%20Travel%20Time.png) |
+
+Looking at the two graphs next to each other, no noticeable differences can be found, thus we can conclude that the index used in calculations should not affect the correlation between HPI and aggregate travel time. 
+
+
+
+
+
+### Are HPI and Travel Time to Work Related?
+![HPI vs. Travel Time to Work](https://github.com/alexriiska/project-1/blob/main/Images/HPI%20Travel%20Time%20to%20Work.png)
+
+Above is a scatter plot comparing each state's NSA index and aggregate travel time throughout the 10 year period, color coded by year. Although there appears to be a positive correlation for some states (areas that are grouped together), there is little correlation overall. However, when approaching the plot using percent change for the NSA index and aggregate travel time, the positive correlation becomes more noticeable. The scatter plot below shows the relationship between the two percent changes, this time color coded by state. Running a Pearson's R test on the percent changes produced a score of 0.84, confirming a strong, positive relationship. 
+
+![% Change HPI vs % Change Aggregate](https://github.com/alexriiska/project-1/blob/main/Images/Change%20HPI%20Total%20Travel%20Time.png)
+
+Nevada was labeled to highlight it as the only state with a change in HPI over 100%. 
+
+
 
 #### Location of Travel
 ![County and State](https://github.com/alexriiska/project-1/blob/main/Images/Change%20Time%20Work%20Location.png)
